@@ -1,0 +1,14 @@
+Task 1B - PID evaluation
+  team id           : 1189
+  platform          : Windows
+  conda environment : EB_1189
+  date and time     : 01-11-2026 14:15:06
+  gains             : Kp = 46.8, Ki = 8, Kd = 1.25  (tilt)
+                      Kp = 36, Ki = 0, Kd = 3.198  (yaw)
+  motor sign        : +1
+  balanced          : 20.00 s of 20.00 s   (within 10 deg tilt, 30 deg arm)
+  error (RMS)       : tilt 0.19 deg, arm 0.58 deg
+  error (peak)      : tilt 1.50 deg, arm 0.88 deg
+  stability score   : time 1.000 x 0.7 + precision 0.981 x 0.3
+  note              : completed the full 20 s
+  MARKS             : 19.89 out of 20
